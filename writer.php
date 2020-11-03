@@ -5,7 +5,7 @@
   @fclose($file);
 ?>
 <head>
-	<title>File Writer - Junaid Jagirani</title>
+	<title>File Writer - Junaid Jagirani -</title>
 </head>
 <center>
   <form method="post" id="form">
